@@ -1,4 +1,4 @@
-# Clon de Netflix en Flutter
+# Laboratorio 09 - 10 (Aplicaciones Móviles Multiplataforma)
 
 Laboratorio académico de la Semana 10. Replica la experiencia de Netflix en
 web y móvil. No tiene fines comerciales ni relación con Netflix, Inc.; se usa
